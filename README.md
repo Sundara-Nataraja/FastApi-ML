@@ -36,7 +36,7 @@ or
 - Default Pytest APIs to test application easily.
 
 ## Enchancement
-- Doctest for individual components.
+- Jenkins Pipeline and Dockerization of the Application
 - Coverage tests
 - Improvement to be placed in reading larger files and faster training.
 - Improvements in predict API specific error handling and message to user.
